@@ -20,6 +20,8 @@ Older private data and projects are still hosted on the `olimpiadi-informatica` 
 
 - [olimpiadi-informatica (gitlab.com)](https://gitlab.com/olimpiadi-informatica)
 
-The OII, together with other olympiads, also participate into the organization _Italian Scientific Olympiad_ dedicated to the development of `olimanager` shared platform for national contests:
+The OII also participate in several national and international organizations:
 
-- [italian-scientific-olympiads](https://github.com/italian-scientific-olympiads)
+- [italian-scientific-olympiads](https://github.com/italian-scientific-olympiads) (shared web platform for national contest management)
+- [iio-team](https://github.com/iio-team) (tools and tasks for the IIOT team contests)
+- [cms-dev](https://github.com/cms-dev/cms) (the CMS contest management system)
