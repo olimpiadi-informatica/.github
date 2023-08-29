@@ -1,25 +1,25 @@
 # Olimpiadi Italiane di Informatica
 
-Questo è il contenitore principale dei progetti di tool e servizi web delle Olimpiadi Italiane di Informatica. Altre organizzazioni sono state usate in passato per scopi simili e ancora contengono progetti attivi non ancora migrati verso questo repository:
+This is the main container of tool projects and web services of the _Olimpiadi Italiane di Informatica (OII)_. Other organizations were used in the past for similar purposes and still contain active projects not yet migrated into this organization:
 
 - [algorithm-ninja](https://github.com/algorithm-ninja)
 - [olinfo](https://github.com/olinfo)
 
-Il progetto `task-maker-rust` è invece suddiviso su vari repo in account github individuali:
+The `task-maker-rust` project is instead split across various personal github accounts:
 
 - [task-maker-rust](https://github.com/edomora97/task-maker-rust)
 - [tabox (sandbox)](https://github.com/alerighi/tabox)
 - [dp1 (ubuntu ppa)](https://github.com/dp1/task-maker-rust-ppa)
 - [bortoz (brew formula)](https://github.com/bortoz/homebrew-bortoz/blob/master/Formula/task-maker-rust.rb)
 
-I dati e progetti privati delle olimpiadi sono invece ospitati in un git self-hosted separato:
+Private data and projects of the OII are instead located in a dedicated self-hosted git repository:
 
 - [self-hosted git](https://git.olinfo.it)
 
-Alcuni dati e progetti privati più antichi sono ancora ospitati sulla pagina delle olimpiadi di informatica su gitlab:
+Older private data and projects are still hosted on the `olimpiadi-informatica` organization on gitlab:
 
 - [olimpiadi-informatica (gitlab.com)](https://gitlab.com/olimpiadi-informatica)
 
-Le olimpiadi di informatica, insieme ad altre olimpiadi, partecipano anche all'organizzazione _Italian Scientific Olympiad_ dedicata alla piattaforma gestionale comune per gare nazionali:
+The OII, together with other olympiads, also participate into the organization _Italian Scientific Olympiad_ dedicated to the development of `olimanager` shared platform for national contests:
 
 - [italian-scientific-olympiads](https://github.com/italian-scientific-olympiads)
