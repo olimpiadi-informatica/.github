@@ -12,6 +12,10 @@ The `task-maker-rust` project is instead split across various personal github ac
 - [dp1 (ubuntu ppa)](https://github.com/dp1/task-maker-rust-ppa)
 - [bortoz (brew formula)](https://github.com/bortoz/homebrew-bortoz/blob/master/Formula/task-maker-rust.rb)
 
+The CMS used during italian contests is a fork, available at:
+
+- [cms (edomora97 fork)](https://github.com/edomora97/cms)
+
 Private data and projects of the OII are instead located in a dedicated self-hosted git repository:
 
 - [self-hosted git](https://git.olinfo.it)
