@@ -1,9 +1,8 @@
 # Olimpiadi Italiane di Informatica
 
-This is the main container of tool projects and web services of the _Olimpiadi Italiane di Informatica (OII)_. Other organizations were used in the past for similar purposes and still contain active projects not yet migrated into this organization:
+This is the main container of tool projects and web services of the _Olimpiadi Italiane di Informatica (OII)_. Another organization was used in the past for similar purposes and still contain active projects not yet migrated into this organization:
 
 - [algorithm-ninja](https://github.com/algorithm-ninja)
-- [olinfo](https://github.com/olinfo)
 
 The `task-maker-rust` project is instead split across various personal github accounts:
 
